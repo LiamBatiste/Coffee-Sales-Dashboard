@@ -3,15 +3,7 @@ A dashboard to be used by stakeholders to analyse Coffee Sale.
 
 
 ## Data Gathering: 
-The raw data consisted of 3 worksheets; Orders, Customers and Products. To allow for later data aggregation, data was consolidated into one table using the XLOOKUP and INDEX MATCH functions to obtain the key datapoints relating to the customer respective product information for each purchase, such as: 
-
-### - Customer Name
-### - Customer Email
-### - Customer's Country of purchase
-### - Coffee Type 
-### - Roast Type
-### - Coffee Bag Size 
-### - Loyalty Card 
+The raw data consisted of 3 worksheets; Orders, Customers and Products. To allow for later data aggregation, data was consolidated into one table using the XLOOKUP and INDEX MATCH functions to obtain the key datapoints relating to the customer respective product information for each purchase, such as **Customer Name, Customer Email, Customer's Country of purchase, Coffee Type, Roast Type, Coffee Bag Size and Loyalty Card purchases. **
 
 
 ## Data normalisation:
