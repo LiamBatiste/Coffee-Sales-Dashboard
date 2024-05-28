@@ -20,4 +20,4 @@ There is also the ability to 'drill down' further into the data with the use of 
 
 
 ![alt text](https://github.com/LiamBatiste/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.PNG?raw=true)
-[Download the Excel file]()
+[Download the Excel file](https://github.com/LiamBatiste/Coffee-Sales-Dashboard/blob/main/coffeeOrdersData.xlsx)
