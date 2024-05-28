@@ -20,4 +20,6 @@ Data was then normalised to allow the data to be more readable/understandable, s
 
 ## Data Aggregation and Visulisation:
 Data was then aggregated to create a dashboard that facilitates the analysis of the following: 
-## - Time series data with monthly granularity for total coffee sales
+### - Time series data with monthly granularity for total coffee sales
+### - Sales by Country 
+### - The top 5 customers
