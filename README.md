@@ -23,3 +23,4 @@ Data was then aggregated to create a dashboard that facilitates the analysis of 
 ### - Time series data with monthly granularity for total coffee sales
 ### - Sales by Country 
 ### - The top 5 customers
+There is also the ability to 'drill down' further into the data with the use of the slicers for Roast Type, 
